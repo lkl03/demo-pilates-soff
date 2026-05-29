@@ -1,2 +1,7 @@
-# demo-pilates-soff
-Demo web para Pilates.soff — diseñada por eterlab.
+# Pilates.soff
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
